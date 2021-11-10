@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\AiSD\1\Year\obj\Debug\Year.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\AiSD\1\Year\bin\Debug\Year.exe.config
+C:\Users\Dell\Desktop\AiSD\1\Year\bin\Debug\Year.exe
+C:\Users\Dell\Desktop\AiSD\1\Year\bin\Debug\Year.pdb
+C:\Users\Dell\Desktop\AiSD\1\Year\obj\Debug\Year.exe
+C:\Users\Dell\Desktop\AiSD\1\Year\obj\Debug\Year.pdb

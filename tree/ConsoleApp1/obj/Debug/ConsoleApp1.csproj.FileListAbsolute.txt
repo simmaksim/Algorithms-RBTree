@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\AiSD\tree\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\AiSD\tree\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache

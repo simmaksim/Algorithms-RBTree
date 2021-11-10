@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Dell\Desktop\AiSD\tree\Tree\ConsoleApplication1\Tree.h(318,29): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Dell\Desktop\AiSD\tree\Tree\ConsoleApplication1\Tree.h(314): message : во время компиляции функции-члена класс шаблон "void Tree<int>::deleteByValue(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Dell\Desktop\AiSD\tree\Tree\ConsoleApplication1\ConsoleApplication1.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::deleteByValue(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Dell\Desktop\AiSD\tree\Tree\ConsoleApplication1\ConsoleApplication1.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+  ConsoleApplication1.vcxproj -> C:\Users\Dell\Desktop\AiSD\tree\Tree\ConsoleApplication1\Debug\ConsoleApplication1.exe

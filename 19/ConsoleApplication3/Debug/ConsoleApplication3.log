@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Dell\Desktop\AiSD\19\ConsoleApplication3\ConsoleApplication3.cpp(11,6): warning C4101: number: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> C:\Users\Dell\Desktop\AiSD\19\ConsoleApplication3\Debug\ConsoleApplication3.exe

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(997,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть C:\Users\Dell\Desktop\AiSD\4\ConsoleApplication1\Debug\ConsoleApplication1.exe для записи
